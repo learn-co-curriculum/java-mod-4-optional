@@ -50,7 +50,7 @@ Optional.empty
 
 ### Retrieving Values
 
-There are several ways of gettiing a value from an `Optional` object. The 3 main
+There are several ways of getting a value from an `Optional` object. The 3 main
 ways of getting values from optionals are:
 
 - `get`
