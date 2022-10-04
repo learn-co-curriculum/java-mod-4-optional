@@ -143,7 +143,7 @@ There are three main methods for creating `Optional` objects:
 
 - `empty()`: this creates an empty optional, i.e., it contains a null value.
 - `of()`: this is used for creating optionals with non-null values and throws a
-  `Null Pointer Exception` if a null value is passed to the method.
+  `NullPointerException` if a null value is passed to the method.
 - `ofNullable()`: this method can be used to create an optional if we’re not
   sure if the value passed is null or not.
 
